@@ -1,9 +1,21 @@
 .green-btn{
-    background: #4caf4f;
-    color: #fff;
+    background: #4CAF4F;
+    color: #FFF;
     font-weight: 400;
 }
-.green-btn:hover, .green-btn{
-    background: #378839;
-    color: #fff;
+.green-btn:hover,.green-btn:focus{
+    background: #38853b;
+    color: #FFF;
+}
+.link-color{
+    color: #4CAF4F;
+}
+
+.text-translater{
+    transform: translate(-70%);
+    background: #FFF ;
+}
+.button-green{
+    background-color: #4CAF4F;
+    width: 50%;
 }
