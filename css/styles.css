@@ -19,3 +19,15 @@
     background-color: #4CAF4F;
     width: 50%;
 }
+
+.link-color{
+    color: #4CAF4F;
+}
+.text-translate{
+    transform: translateY(-70%);
+    background: #f5f7fa;
+    padding: 30px;
+    width: 317px;
+    margin: auto;
+    border-radius: 10px;
+}
